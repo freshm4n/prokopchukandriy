@@ -24,6 +24,12 @@
 
 # Написання програми 
 
+Task0
+
 ![image](https://user-images.githubusercontent.com/86929198/125648241-0b073938-4c6b-408c-ba0d-85013053e6e3.png)
+
+Task1
+
+![image](https://user-images.githubusercontent.com/86929198/125648537-6d3b5f35-0890-4f2f-8f3a-23ce67be2194.png)
 
 
